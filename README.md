@@ -3,3 +3,6 @@ This project uses [NVIDIA's](https://arxiv.org/pdf/1604.07316) End-to-End Learni
 
 # Dataset used for training YOLO model 
 https://universe.roboflow.com/sue-ergdx/l-s-kvbur-z1sqm/dataset/1
+
+# Dataset used 
+https://github.com/SullyChen/driving-datasets
