@@ -6,3 +6,27 @@ https://universe.roboflow.com/sue-ergdx/l-s-kvbur-z1sqm/dataset/1
 
 # Dataset used 
 https://github.com/SullyChen/driving-datasets
+
+# How to use 
+1. Download the dataset
+ 
+2.Create a virtual enviroment 
+-- Using venv:
+  `
+  python -m venv env
+  source env/bin/activate  #Linux/Mac
+  .\env\Scripts\activate   #Windows
+  `
+-- Using conda: 
+  `
+  conda create --name auto_driving_env python=3.8
+  conda activate auto_driving_env
+  `
+Install Dependencies
+  `
+  python setup.py install
+  `
+Run the Applicatio
+  `
+  python run_auto_driving.py
+  `
