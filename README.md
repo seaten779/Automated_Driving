@@ -9,7 +9,7 @@ https://github.com/SullyChen/driving-datasets
 
 # How to use 
 1. Download the dataset
- 
+
 2.Create a virtual enviroment 
 -- Using venv:
   `
@@ -22,11 +22,13 @@ https://github.com/SullyChen/driving-datasets
   conda create --name auto_driving_env python=3.8
   conda activate auto_driving_env
   `
-Install Dependencies
+  
+3.Install Dependencies
   `
   python setup.py install
   `
-Run the Applicatio
+  
+4.Run the Applicatio
   `
   python run_auto_driving.py
   `
